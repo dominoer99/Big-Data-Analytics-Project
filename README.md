@@ -2,7 +2,7 @@
 IS843 Project
 
 Data: Austin Animal Adoption Shelter Center Outcome
-\nProject is done via Google Cloud Platform.
+'Project is done via Google Cloud Platform.'
 - Data cleaning and processing
 - Exploratory data analysis
 - Feature engineering
