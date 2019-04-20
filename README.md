@@ -10,4 +10,4 @@ Data source: https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-o
 - Feature engineering
 - Logistic regression, knn, kmean, SVM
 - Cross-validation for hyperparameter tuning
-- Pipeline structure
+- Pipeline
