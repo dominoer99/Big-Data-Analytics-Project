@@ -8,6 +8,6 @@ Data source: https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-o
 - Data cleaning and processing
 - Exploratory data analysis
 - Feature engineering
-- Logistic regression, knn, kmeans, SVM
+- Logistic regression, Multilayer Perceptron Classifier, Support Vector Machine
 - Cross-validation for hyperparameter tuning
-- Pipeline
+- Pipeline for all models
