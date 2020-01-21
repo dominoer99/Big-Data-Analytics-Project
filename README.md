@@ -1,4 +1,4 @@
-# Big-Data-Analytics-Project
+# IS843, Big Data Analytics, Project
 IS843 Project via Google Cloud Platform, with Spark
 
 Data: Austin Animal Shelter Center Adoption Outcome
